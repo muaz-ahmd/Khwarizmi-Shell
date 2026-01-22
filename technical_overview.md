@@ -61,8 +61,3 @@ Located in `execution.c` and `main.c`, this is where the work happens.
 - `builtins.c`: Logic for internal shell commands.
 - `history.c`: Manages the list of past commands and file persistence.
 - `input.c`: Manages terminal settings and line editing.
-
----
-
-## 🌟 Summary for Beginners
-Building a shell is like building a miniature operating system interface. It involves managing memory, handling text precisely, and coordinating different programs so they can work together. Khwarizmi-Shell is designed to show these complex concepts in a clean, readable C codebase.
